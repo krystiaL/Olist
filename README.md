@@ -23,5 +23,7 @@
 
 ---
 ## Recommendation Slides
+👉 [link](https://github.com/krystiaL/Olist/blob/master_krystiaL/profitability_analysis_slides.pdf) to slides.<br/><br/>
+<img src="https://github.com/krystiaL/Olist/blob/master_krystiaL/1st_slide_viz_snap.png"/>
 
-[link to slide pdf](https://github.com/krystiaL/Olist/blob/master_krystiaL/profitability_analysis_slides.pdf)
+

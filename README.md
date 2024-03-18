@@ -1,3 +1,6 @@
+# Olist CEO Request Challenge
+---
+
 🏋️‍♀️ This is the final challenge of the week (you have until the end of the Communicate topic to complete it).
 
 **Before diving into it, take time to finish the challenge 02 on sellers analysis (Liner Regression topic)**.
@@ -9,11 +12,6 @@
 > - some revenues per orders
 > - some reputation costs (estimated) per bad reviews
 > - some operational costs of IT system that grows with number of orders, but not linearly (scale effects)
-
-<details>
-  <summary markdown='span'>💡 Hints</summary>
-- You may want to compute the review cost of each order first, then sum these costs by seller.
-</details>
 
 ## ✏️ Your turn!
 

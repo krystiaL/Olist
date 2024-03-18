@@ -20,3 +20,6 @@
 - We'll start from a blank Notebook
 - Refrain from re-using from previous notebooks - they were made for investigation only
 - All your re-usable logic is coded in `olist/*.py` scripts
+
+---
+## Recommendation Slides
